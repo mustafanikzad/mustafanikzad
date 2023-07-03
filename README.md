@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mustafanikzad
+- 👋 Hi, I’m Mustafa Nikzad
 - 👀 I’m interested in building *smart houses* and integrating machines with it
 - 🌱 I’m currently learning `JavaScript`
 - 💞️ I’m looking to collaborate on *IoT*
